@@ -1,0 +1,88 @@
+<mxfile host="app.diagrams.net" modified="2024-02-02T18:49:02.193Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="VxO8__cKfhetqG0nktb7" version="23.1.1" type="device">
+  <diagram name="Página-1" id="Rganr19uKsDzd_jjGSZs">
+    <mxGraphModel dx="1434" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#CCFFFF" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="u2yYoQbQVsTTtYPgt__t-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KhnNNgycjfnA8WjDQx8Y-1" target="u2yYoQbQVsTTtYPgt__t-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KhnNNgycjfnA8WjDQx8Y-1" value="Cliente selecciona el restaurante" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u2yYoQbQVsTTtYPgt__t-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KhnNNgycjfnA8WjDQx8Y-6" target="u2yYoQbQVsTTtYPgt__t-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KhnNNgycjfnA8WjDQx8Y-6" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;fillStyle=auto;gradientColor=#000000;gradientDirection=radial;" parent="1" vertex="1">
+          <mxGeometry x="120" y="90" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KhnNNgycjfnA8WjDQx8Y-18" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;gradientColor=#FFFFFF;gradientDirection=radial;fillColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="600" y="90" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u2yYoQbQVsTTtYPgt__t-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u2yYoQbQVsTTtYPgt__t-1" target="KhnNNgycjfnA8WjDQx8Y-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u2yYoQbQVsTTtYPgt__t-1" value="Listado de Restaurantes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u2yYoQbQVsTTtYPgt__t-3" value="Cliente selecciona comida o bebida de la carta" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u2yYoQbQVsTTtYPgt__t-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u2yYoQbQVsTTtYPgt__t-5" target="u2yYoQbQVsTTtYPgt__t-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u2yYoQbQVsTTtYPgt__t-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u2yYoQbQVsTTtYPgt__t-5" target="u2yYoQbQVsTTtYPgt__t-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u2yYoQbQVsTTtYPgt__t-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="240" y="440" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="u2yYoQbQVsTTtYPgt__t-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="u2yYoQbQVsTTtYPgt__t-7" target="u2yYoQbQVsTTtYPgt__t-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u2yYoQbQVsTTtYPgt__t-7" value="&lt;div&gt;Cocinero prepara comida&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u2yYoQbQVsTTtYPgt__t-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="u2yYoQbQVsTTtYPgt__t-17" target="u2yYoQbQVsTTtYPgt__t-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u2yYoQbQVsTTtYPgt__t-17" value="&lt;div&gt;Camarero prepara bebida&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u2yYoQbQVsTTtYPgt__t-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u2yYoQbQVsTTtYPgt__t-3" target="u2yYoQbQVsTTtYPgt__t-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u2yYoQbQVsTTtYPgt__t-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="u2yYoQbQVsTTtYPgt__t-31" target="u2yYoQbQVsTTtYPgt__t-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u2yYoQbQVsTTtYPgt__t-31" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="240" y="640" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="u2yYoQbQVsTTtYPgt__t-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="u2yYoQbQVsTTtYPgt__t-35" target="u2yYoQbQVsTTtYPgt__t-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u2yYoQbQVsTTtYPgt__t-35" value="Camarero sirve comida o bebida al cliente" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u2yYoQbQVsTTtYPgt__t-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="u2yYoQbQVsTTtYPgt__t-37" target="u2yYoQbQVsTTtYPgt__t-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u2yYoQbQVsTTtYPgt__t-37" value="Cliente pide cuenta" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u2yYoQbQVsTTtYPgt__t-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="u2yYoQbQVsTTtYPgt__t-39" target="u2yYoQbQVsTTtYPgt__t-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u2yYoQbQVsTTtYPgt__t-39" value="&lt;div&gt;Camarero prepara cuenta&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u2yYoQbQVsTTtYPgt__t-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="u2yYoQbQVsTTtYPgt__t-41" target="KhnNNgycjfnA8WjDQx8Y-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u2yYoQbQVsTTtYPgt__t-41" value="&lt;div&gt;Cliente paga cuenta&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
