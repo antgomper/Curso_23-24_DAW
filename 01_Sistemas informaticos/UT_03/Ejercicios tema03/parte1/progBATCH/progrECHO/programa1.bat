@@ -1,0 +1,3 @@
+@ECHO OFF
+ECHO Hola Mundo
+PAUSE
