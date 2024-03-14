@@ -1,0 +1,6 @@
+"Servidor","Direccion IP","Sistema Operativo"
+SRV01,192.168.0.11,Windows 2008 R2
+SRV02,192.168.0.12,Windows 2012
+SRV03,192.168.0.13,Windows 2008 R2
+SRV04,192.168.0.14,Windows 2008 R2
+SRV05,192.168.0.15,Windows 2012
