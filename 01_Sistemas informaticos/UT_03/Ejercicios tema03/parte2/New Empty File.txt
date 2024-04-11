@@ -1,0 +1,9 @@
+r) Obtén información detallada sobre el hardware del sistema y guárdalo en un archivo
+de texto.
+
+Get-WmiObject -Class Win32_ComputerSystem
+
+p) Muestra el espacio libre y usado en una unidad de disco específica y en formato
+legible para el usuario.
+
+get-volume
