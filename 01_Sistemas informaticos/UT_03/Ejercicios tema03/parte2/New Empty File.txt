@@ -7,3 +7,5 @@ p) Muestra el espacio libre y usado en una unidad de disco específica y en form
 legible para el usuario.
 
 get-volume
+
+k) get-child-item -path ruta -file | where-object {$_-lastwritetime -gt (get-date).addDAys (-7)} > "archivo.txt
