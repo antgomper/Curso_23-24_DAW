@@ -1,0 +1,6 @@
+total 16
+drwxrwxr-x  5 ciclost ciclost 4096 may  6 10:28 alumno
+-rw-rw-r--  1 ciclost ciclost    0 may 10 10:43 fichero.txt
+drwx------ 10 ciclost ciclost 4096 mar  9 12:22 progBATCH
+drwxrwxr-x  7 ciclost ciclost 4096 may  6 16:56 usuario
+drwxrwxr-x  7 ciclost ciclost 4096 may  6 16:59 usuario (copia 1)

@@ -1,0 +1,17 @@
+
+
+
+
+
+.:
+A21cambiado
+arbol.txt
+./B:
+B
+./C:
+C
+./D:
+D
+./E:
+E
+./E/A21cambiado:
