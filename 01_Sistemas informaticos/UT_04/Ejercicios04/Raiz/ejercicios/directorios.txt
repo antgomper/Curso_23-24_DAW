@@ -1,0 +1,25 @@
+./ejercicios:
+total 8
+-rw-rw-r-- 1 ciclost ciclost    0 may 15 11:00 directorios.txt
+drwxrwxr-x 2 ciclost ciclost 4096 may 15 10:49 gastos
+drwxrwxr-x 4 ciclost ciclost 4096 may 13 17:06 ingresos
+
+./ejercicios/gastos:
+total 4
+-rw-rw-r-- 1 ciclost ciclost 17 may 14 10:42 empleord.txt
+
+./ejercicios/ingresos:
+total 8
+drwxrwxr-x 2 ciclost ciclost 4096 may 15 10:49 alquiler
+drwxrwxr-x 2 ciclost ciclost 4096 may 15 10:45 ventas
+
+./ejercicios/ingresos/alquiler:
+total 8
+-rw-rw-r-- 1 ciclost ciclost 17 may 14 10:38 emple1.txt
+-rw-rw-r-- 1 ciclost ciclost 17 may 14 10:39 emple2.txt
+
+./ejercicios/ingresos/ventas:
+total 12
+-rw-rw-r-- 1 ciclost ciclost 17 may 15 10:45 emple1.txt
+-rw-rw-r-- 1 ciclost ciclost 17 may 15 10:45 emple2.txt
+-rw-rw-r-- 1 ciclost ciclost 17 may 15 10:45 empleord.txt
