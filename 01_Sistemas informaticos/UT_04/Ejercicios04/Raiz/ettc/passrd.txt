@@ -1,6 +1,8 @@
-ensalada tutalavida:espagueti carbonara:profiteroles:agua
-alitas tejanas:pizza boloñesa:piña:cerveza
-ensalada mia manera:costillar a la miel:brownie:cocacola
-picaeta de la casa:lasaña:helado:vino de la casa
-tostas de ajo:pizza tejana:mousse de chocolate:fanta de naranja
-creppes de verdura:tallatellis al roquefort:freasa con nata:nestea
+primero:segundo:postre:bebida:localización:atiende
+ensalada tutalavida:espagueti carbonara:profiteroles:agua:mesa1:carlos
+alitas tejanas:pizza boloñesa:helado:cerveza:mesa2:maria
+ensalada mia manera:costillar a la miel:brownie:cocacola:mesa3:genaro
+picaeta de la casa:lasaña:helado:vino de la casa:mesa4:inés
+tostas de ajo:pizza tejana:mousse de chocolate:fanta de naranja:mesa5:alfonso
+creppes de verdura:tallatellis al roquefort:freasa con nata:agua:mesa6:alfonso
+volovant de bacon:canelones:piña:cerveza:mesa7:carlos
