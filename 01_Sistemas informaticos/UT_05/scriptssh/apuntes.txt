@@ -1,0 +1,29 @@
+TEMA5-9
+
+
+poner #!/bin/bash 
+los ficheros deben tener chmod de 755
+al ejecuar un programa poner ./fichero.sh
+
+
+Expansion de variables
+
+expansión de comandos
+Expansion aritmeticas
+
+Valores logicos
+true=0
+false = cualquier otro numero distinto de 0
+
+varieables de entorno y comandos relacionados
+
+operadores relacionales y condicionales
+tener en cuenta tipos de operadosres de cpomparacion
+en laos coomparaores numericos ponerlo en leras y en comparadores ce dacenas se usan simbolos
+
+esturucturas condicionales.
+quedarse con la estuctura tipica los corchetes separados de la expresion, ";" cuenta como un intro
+
+elif es la contracción del elseif
+ejemplitos pagina 9
+
