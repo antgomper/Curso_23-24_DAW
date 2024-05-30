@@ -27,3 +27,4 @@ quedarse con la estuctura tipica los corchetes separados de la expresion, ";" cu
 elif es la contracción del elseif
 ejemplitos pagina 9
 
+funciones NO
