@@ -5,5 +5,5 @@ read fichero
 if [ -r $fichero ]; then
    more $fichero
 else
-   echo "El fichero no existe."
+   echo "Error, el fichero no existe."
 fi
