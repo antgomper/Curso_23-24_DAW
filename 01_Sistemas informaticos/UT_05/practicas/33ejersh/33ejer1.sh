@@ -4,7 +4,7 @@ echo  "A = $varA  B = $varB  C = $varC"
 let oper1=varA+varB+varC
 echo "A+B+C = $oper1"
 echo
-let oper2=2*varB+3*varA-varC
+let oper2=2*varB+3*\(varA-varC\)
 echo "2*B + 3*(A-C) = $oper2"
 echo
 let oper3=varA/varB
