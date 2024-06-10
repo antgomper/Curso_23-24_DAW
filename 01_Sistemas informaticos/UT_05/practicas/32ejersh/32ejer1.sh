@@ -2,4 +2,4 @@
 #!/bin/bash
 clear
 echo $LOGNAME
-pwd
+echo $PWD

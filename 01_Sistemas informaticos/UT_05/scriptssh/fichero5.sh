@@ -1,10 +1,12 @@
 #!/bin/bash
 echo -n "Introduce una cantidad: "
 read cant1
-aster=*
+aster=1
+
 for i in $(seq 1 1 $cant1); do
-    echo "$aster"
-    let aster=aster+"*"
-    i=i+1
+    echo -n "$aster "
+     let aster=aster+1    
 done
+echo
+
 

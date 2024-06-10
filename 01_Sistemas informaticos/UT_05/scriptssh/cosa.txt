@@ -1,0 +1,5 @@
+casa,case,casi,caso,casu
+cesa,cese,cesi,ceso,cesu
+cisa,cise,cisi,ciso,cisu
+cosa,cose,cosi,coso,cosu
+cusa,cuse,cusi,cuso,cusu
